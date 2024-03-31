@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/silva/GH_Stage/wine_quality_predictor_deployed/mlruns/379278478217381913/95cc61c255514156a94e4ee74a8ac5e3/artifacts
+end_time: 1711918047252
+entry_point_name: ''
+experiment_id: '379278478217381913'
+lifecycle_stage: active
+run_id: 95cc61c255514156a94e4ee74a8ac5e3
+run_name: clean-shrike-821
+run_uuid: 95cc61c255514156a94e4ee74a8ac5e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711918043844
+status: 3
+tags: []
+user_id: silva

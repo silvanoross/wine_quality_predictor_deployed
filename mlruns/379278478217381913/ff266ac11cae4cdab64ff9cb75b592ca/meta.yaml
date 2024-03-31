@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/silva/GH_Stage/wine_quality_predictor_deployed/mlruns/379278478217381913/ff266ac11cae4cdab64ff9cb75b592ca/artifacts
+end_time: 1711918073690
+entry_point_name: ''
+experiment_id: '379278478217381913'
+lifecycle_stage: active
+run_id: ff266ac11cae4cdab64ff9cb75b592ca
+run_name: awesome-donkey-25
+run_uuid: ff266ac11cae4cdab64ff9cb75b592ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711918070845
+status: 3
+tags: []
+user_id: silva
